@@ -23,4 +23,4 @@ WORKDIR /data
 
 ENTRYPOINT ["/bin/bash","./run.sh"]
 
-EXPOSE 5000
+EXPOSE 8080
